@@ -5,6 +5,10 @@
   <img width="600" height="AUTO" alt="image" src="https://github.com/user-attachments/assets/dd29c6b8-ee42-4998-bfd4-da610a0c9122" />
 <div>
 <br>
+<br>
+Link do repositório no GitHub: https://github.com/resendedutra/CONVERSAO_MOEDA
+<br>
+Link de publicação no GitHub: https://resendedutra.github.io/CONVERSAO_MOEDA/
 <div>
   <h2>Tecnologias e Linguagens</h2>
   <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/8d664a3e-fd02-4d16-90de-b78b4954525f" />
